@@ -1,8 +1,16 @@
 $ git branch -a -vv
+
   bug-fix-revert                12598d3 [origin/bug-fix-revert] Add bug fix revert branch validation
   bug-fix-typo                  25ad0ae [origin/bug-fix-typo] Fix typo in README
-* main                          861de5c [origin/main] Add pull request validation output
+* main                          70278d0 [origin/main] Fix project files formatting
+
   remotes/origin/HEAD           -> origin/main
   remotes/origin/bug-fix-revert 12598d3 Add bug fix revert branch validation
   remotes/origin/bug-fix-typo   25ad0ae Fix typo in README
-  remotes/origin/main           861de5c Add pull request validation output
+  remotes/origin/main           70278d0 Fix project files formatting
+
+Branch status:
+main is the current branch and is tracking origin/main.
+bug-fix-typo is tracking origin/bug-fix-typo.
+bug-fix-revert is tracking origin/bug-fix-revert.
+All required branches are present: main, bug-fix-typo, and bug-fix-revert.
