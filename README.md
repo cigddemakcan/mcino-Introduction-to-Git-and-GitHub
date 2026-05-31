@@ -1,70 +1,45 @@
 # Simple Interest Calculator
 
-This project is a simple interest calculator created for the final Git and GitHub project.
+## Project Name
 
-## Project Details
+Simple Interest Calculator
 
-The project contains a Bash script named `simple-interest.sh`.
+## Project Description
 
-The script calculates simple interest using user input values.
+This project contains a Bash script named `simple-interest.sh`.
+
+The script calculates simple interest based on user input values.
 
 ## Input Fields
 
-The calculator asks the user to enter the following values:
+The simple interest calculator asks the user to enter the following values:
 
 - Principal amount
 - Rate of interest
 - Time period
 
-## Formula Used
+## Formula
 
 Simple Interest = (Principal × Rate of Interest × Time Period) / 100
 
 ## How It Works
 
 1. The user runs the `simple-interest.sh` Bash script.
-2. The script asks for principal, rate of interest, and time period.
-3. The script calculates the simple interest.
-4. The result is displayed in the terminal.
+2. The script asks the user to enter the principal amount.
+3. The script asks the user to enter the rate of interest.
+4. The script asks the user to enter the time period.
+5. The script calculates and displays the simple interest.
 
-## Run the Script
+## How to Run
 
-```bash
-bash simple-interest.sh
-cat > README.md <<'EOF'
-# Simple Interest Calculator
-
-This project is a simple interest calculator created for the final Git and GitHub project.
-
-## Project Details
-
-The project contains a Bash script named `simple-interest.sh`.
-
-The script calculates simple interest using user input values.
-
-## Input Fields
-
-The calculator asks the user to enter the following values:
-
-- Principal amount
-- Rate of interest
-- Time period
-
-## Formula Used
-
-Simple Interest = (Principal × Rate of Interest × Time Period) / 100
-
-## How It Works
-
-1. The user runs the `simple-interest.sh` Bash script.
-2. The script asks for principal, rate of interest, and time period.
-3. The script calculates the simple interest.
-4. The result is displayed in the terminal.
-
-## Run the Script
+Use the following command:
 
 bash simple-interest.sh
 
-## File Included
+## Repository Files
 
-- `simple-interest.sh` - Bash script for calculating simple interest
+- `README.md` - Project details
+- `simple-interest.sh` - Bash script for simple interest calculation
+- `LICENSE` - Apache 2.0 license file
+- `CODE_OF_CONDUCT.md` - Code of conduct
+- `CONTRIBUTING.md` - Contribution guidelines
