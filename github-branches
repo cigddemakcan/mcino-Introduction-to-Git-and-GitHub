@@ -1,2 +1,8 @@
-  bug-fix-typo 25ad0ae Fix typo in README
-* main         25ad0ae [origin/main: ahead 1] Fix typo in README
+$ git branch -a -vv
+  bug-fix-revert                12598d3 [origin/bug-fix-revert] Add bug fix revert branch validation
+  bug-fix-typo                  25ad0ae [origin/bug-fix-typo] Fix typo in README
+* main                          861de5c [origin/main] Add pull request validation output
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 12598d3 Add bug fix revert branch validation
+  remotes/origin/bug-fix-typo   25ad0ae Fix typo in README
+  remotes/origin/main           861de5c Add pull request validation output
