@@ -1,16 +1,21 @@
-$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/8129 | grep -E "\"html_url\"|\"state\"|\"title\"|\"head\"|\"ref\"|\"full_name\""
-  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/8129",
-  "state": "closed",
-  "title": "Add CLI task outputs",
-    "html_url": "https://github.com/cigddemakcan",
-  "head": {
-    "ref": "main",
-      "html_url": "https://github.com/cigddemakcan",
-      "full_name": "cigddemakcan/mcino-Introduction-to-Git-and-GitHub",
-        "html_url": "https://github.com/cigddemakcan",
-      "html_url": "https://github.com/cigddemakcan/mcino-Introduction-to-Git-and-GitHub",
-    "ref": "main",
-      "html_url": "https://github.com/ibm-developer-skills-network",
-      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
-        "html_url": "https://github.com/ibm-developer-skills-network",
-      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/8132
+
+Pull Request URL:
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/8132
+
+Base repository:
+ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+
+Forked head repository:
+cigddemakcan/mcino-Introduction-to-Git-and-GitHub
+
+Head branch:
+bug-fix-revert
+
+Pull request title:
+Bug fix revert
+
+Pull request state:
+closed by github-actions after creation
+
+The pull request was created from the forked repository cigddemakcan/mcino-Introduction-to-Git-and-GitHub into ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.
